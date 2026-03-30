@@ -3,7 +3,7 @@
 A common issue on the **KEA PGCET online application portal** where the *University Marks Details* table fails to render Year 1, Year 2, and Year 3 rows, leaving candidates unable to enter their marks.
 
 ---
-*I am not responsible for any issue this script causes, data loss, or consequences arising from the use of this script.
+*Disclaimer: I am not responsible for any issue this script causes, data loss, or consequences arising from the use of this script.
 Use it on your own risk*
 ## The Problem
 
